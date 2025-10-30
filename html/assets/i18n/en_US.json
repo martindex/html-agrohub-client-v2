@@ -59,7 +59,7 @@
     "btn-go-back": "Volver",
     "comment": "Ingrese un comentario",
     "change-password": "Cambiar contraseña a",
-    "forgot-password": "Olvido su contraseña",
+    "forgot-password": "¿Olvido su contraseña?",
     "password": "Contraseña",
     "want": "Desea",
     "to": "a",
@@ -418,7 +418,8 @@
         "required-data": "Dato requerido",
         "activated-sales": "Ventas activadas",
         "users":"Usuario",
-        "draft":"Borrador"
+        "draft":"Borrador",
+            "invalidMail": "Email inconrrecto"
     },
     "EIQ": {
         "eiq": "EIQ",

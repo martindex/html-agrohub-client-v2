@@ -64,7 +64,7 @@
   "btn-go-back": "Volver",
   "comment": "Ingrese un comentario",
   "change-password": "Cambiar contraseña a",
-  "forgot-password": "Olvido su contraseña",
+  "forgot-password": "¿Olvido su contraseña?",
   "password": "Contraseña",
   "want": "Desea",
   "to": "a",
@@ -477,6 +477,7 @@
     "register": "Registro",
     "formulated": "Formulado",
     "fertilizer": "Fertilizante",
+<<<<<<< HEAD
     "senasa-registry": "Registro Senasa",
     "product-name": "Nombre del Producto",
     "active-ingredient": "Ingrediente Activo",
@@ -495,7 +496,8 @@
     "product-image": "Imagen del Producto",
     "upload-image": "+ Subir imagen",
     "product-documents": "Documentos del producto",
-    "videos": "Videos"
+    "videos": "Videos",
+    "invalidMail": "Email inconrrecto"
   },
   "EIQ": {
     "eiq": "EIQ",
