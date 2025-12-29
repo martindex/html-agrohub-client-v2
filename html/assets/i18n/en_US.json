@@ -5,11 +5,11 @@
     "satelital-image": "Mostrar imagenes satelitales",
     "inactive": "Mostrar inactivos",
     "options": "Opciones",
-    "btn-downloadPdf":"Descargar",
+    "btn-downloadPdf": "Descargar",
     "btn-history": "Historial",
     "btn-modify": "Modificar",
     "btn-active-campaign": "Campaña activa",
-    "btn-active-location":"Ubicación activa",
+    "btn-active-location": "Ubicación activa",
     "btn-lot": "Lote",
     "btn-field": "Establecimiento",
     "btn-export": "Exportar",
@@ -133,7 +133,6 @@
         "new-machinery": "Maquinaria | Nueva",
         "modify-machinery": "Maquinaria | Modificar",
         "greenpoints": "Puntos Verdes",
-
         "messages": "Mensajes",
         "help-links": "Links de ayuda",
         "version": "Versiones",
@@ -142,7 +141,7 @@
         "applicator-panel": "Configuración de cuenta",
         "info": "Información personal",
         "prescriptions": "Recetas",
-        "prescriptions-two":"Prescripciones",
+        "prescriptions-two": "Prescripciones",
         "new-prescription": "Recetas | Nueva"
     },
     "MENU-APPLICATOR": {
@@ -231,7 +230,7 @@
         "lots": "Lotes",
         "users": "Usuarios",
         "new-users": "Nuevos usuarios",
-        "active-user":"Usuarios activos",
+        "active-user": "Usuarios activos",
         "product-on-sale": "Productos en venta",
         "companies": "Empresas"
     },
@@ -417,9 +416,9 @@
         "pickup": "Pickup",
         "required-data": "Dato requerido",
         "activated-sales": "Ventas activadas",
-        "users":"Usuario",
-        "draft":"Borrador",
-            "invalidMail": "Email inconrrecto"
+        "users": "Usuario",
+        "draft": "Borrador",
+        "invalidMail": "Email inconrrecto"
     },
     "EIQ": {
         "eiq": "EIQ",
@@ -448,6 +447,7 @@
         "cancelled": "Cancelada",
         "requested": "Solicitada",
         "approved": "Aprobada",
+        "accepted": "Aceptada",
         "rejected": "Rechazada",
         "progress-of": "Progreso de ",
         "avance": "Avance",
@@ -473,18 +473,18 @@
         "active-ingredients": "Ingredientes Activos",
         "concentration": "Concentración",
         "register": "Registro",
-        "quantity":"Cantidad",
+        "quantity": "Cantidad",
         "company": "Compania",
-        "brand":"Marca",
-        "category":"Categoria",
-        "eiq":"EIQ",
-        "for-sale":"En venta",
-        "cost-price":"Precio de costo",
-        "selling-price":"Precio de venta",
-        "stock":"Stock",
-        "terms-of-payment":"Condiciones de pago",
-        "terms-of-shipment":"Condiciones de envío",
-        "add-point-of-sale":"Agregar punto de venta"
+        "brand": "Marca",
+        "category": "Categoria",
+        "eiq": "EIQ",
+        "for-sale": "En venta",
+        "cost-price": "Precio de costo",
+        "selling-price": "Precio de venta",
+        "stock": "Stock",
+        "terms-of-payment": "Condiciones de pago",
+        "terms-of-shipment": "Condiciones de envío",
+        "add-point-of-sale": "Agregar punto de venta"
     },
     "SCORING": {
         "firstname": "Nombre",
@@ -649,27 +649,26 @@
         "select-lot": "Seleccionar lote",
         "select-aplicator": "Seleccionar aplicador",
         "select-machinery": "Seleccionar maquinaria",
-        "name":"Ingrese su nombre",
-        "last-name":"Ingrese su apellido",
-        "phone":"Ingres su teléfono",
-        "mail":"Ingrese su email",
-        "address":"Ingrese su dirección",
-        "password":"Ingresa una contraseña",
-        "country":"Seleccione un pais",
-        "state":"Seleccione un estado",
-        "city":"Seleccione una ciudad",
-        "type-user":"Seleccione un tipo de usuario"
-
+        "name": "Ingrese su nombre",
+        "last-name": "Ingrese su apellido",
+        "phone": "Ingres su teléfono",
+        "mail": "Ingrese su email",
+        "address": "Ingrese su dirección",
+        "password": "Ingresa una contraseña",
+        "country": "Seleccione un pais",
+        "state": "Seleccione un estado",
+        "city": "Seleccione una ciudad",
+        "type-user": "Seleccione un tipo de usuario"
     },
     "ERROR": {
         "input-name": "El nombre es requerido.",
         "input-lastname": "El apellido es requerido.",
-        "phone":"El teléfono es requerido.",
-        "phone-two":"El teléfono debe contener solo números.",
-        "mail":"El email es requerido.",
-        "mail-two":"Ingresa un email válido.",
-        "password":"La contraseña es requerida.",
-        "password-two":"La contraseña debe tener al menos 6 caracteres."
+        "phone": "El teléfono es requerido.",
+        "phone-two": "El teléfono debe contener solo números.",
+        "mail": "El email es requerido.",
+        "mail-two": "Ingresa un email válido.",
+        "password": "La contraseña es requerida.",
+        "password-two": "La contraseña debe tener al menos 6 caracteres."
     },
     "STEPPER": {
         "where-do-you-apply": "¿Dónde aplicaras?",
@@ -678,37 +677,35 @@
         "finish": "Finalizar",
         "no-sensitive-areas": "No hay areas sensibles cercanas"
     },
-    "WEATHER-OPTIMAL-INTERVALS":{
-        "start":"Empieza",
-        "end":"Termina",
-        "temperature":"Temperatura",
-        "pressure":"Presion",
-        "humidity":"Humedad",
-        "wind":"Viento",
-        "address":"Dirección",
-        "precipitation":"Precipitación",
-        "rain":"Lluvia",
-        "delta":"Delta",
-        "condition":"Condición"
+    "WEATHER-OPTIMAL-INTERVALS": {
+        "start": "Empieza",
+        "end": "Termina",
+        "temperature": "Temperatura",
+        "pressure": "Presion",
+        "humidity": "Humedad",
+        "wind": "Viento",
+        "address": "Dirección",
+        "precipitation": "Precipitación",
+        "rain": "Lluvia",
+        "delta": "Delta",
+        "condition": "Condición"
     },
-    "STOCK-LOCATION":{
-        "new-sale-point":"Nuevo punto de distribución de ",
-        "complete":"*Complete todos los datos solicitados",
-        "distribution-point":"Punto de distribución",
-        "cost-price":"Precio de costo",
-        "sale-price":"Precio de venta",
-        "payment-conditions":"Condiciones de pago",
-        "shipping-conditions":"Condiciones de envío",
-        "sales-activated":"Ventas Activas",
-        "stock":"Cuenta con stock"
-
-
+    "STOCK-LOCATION": {
+        "new-sale-point": "Nuevo punto de distribución de ",
+        "complete": "*Complete todos los datos solicitados",
+        "distribution-point": "Punto de distribución",
+        "cost-price": "Precio de costo",
+        "sale-price": "Precio de venta",
+        "payment-conditions": "Condiciones de pago",
+        "shipping-conditions": "Condiciones de envío",
+        "sales-activated": "Ventas Activas",
+        "stock": "Cuenta con stock"
     },
-    "PRESCRIPTIONS":{
-        "prescriptions":"Prescripciones",
-        "add-prescriptions":"Agregar prescripciones",
-        "no-data":"No hay prescripciones disponibles",
-        "prescription":"receta"
+    "PRESCRIPTIONS": {
+        "prescriptions": "Prescripciones",
+        "add-prescriptions": "Agregar prescripciones",
+        "no-data": "No hay prescripciones disponibles",
+        "prescription": "receta"
     },
     "DIRECT-LOCATIONS": {
         "view-locations": "View locations",
@@ -717,5 +714,40 @@
         "modify-location": "Modify location",
         "delete-location": "Delete location",
         "no-farmer-selected": "No farmer selected"
+    },
+    "INSPECTOR": {
+        "filter-state": "Filter Status",
+        "accept": "Accept",
+        "reject": "Reject",
+        "start": "Start",
+        "pause": "Pause",
+        "finish": "Finish",
+        "accept-question": "Accept this request?",
+        "cancel": "Cancel",
+        "yes": "Yes",
+        "no": "No",
+        "start-question": "Start spraying?",
+        "resume-question": "Continue spraying?",
+        "finish-question": "Finish spraying?",
+        "reject-title": "Reject request",
+        "load-error": "Error loading requests",
+        "accepted-success": "Request Accepted",
+        "accepted-error": "Error accepting request",
+        "started-success": "Application Started",
+        "started-error": "Error starting application",
+        "paused-success": "Application Paused",
+        "paused-error": "Error pausing application",
+        "finished-success": "Application Finished",
+        "finished-error": "Error finishing application",
+        "rejected-success": "Request Rejected",
+        "rejected-error": "Error rejecting request",
+        "all": "All",
+        "export-filename": "AgroHub Approved",
+        "add-progress-title": "Add Spraying Progress",
+        "complete-data": "*Complete all requested data",
+        "lot-size": "Total lot size",
+        "finished-area": "Finished area",
+        "max-progress": "Maximum progress allowed",
+        "current-progress": "Current progress"
     }
 }
