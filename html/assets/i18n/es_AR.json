@@ -231,7 +231,12 @@
   "USER-MENU": {
     "option-1": "Configuración",
     "option-2": "Cambiar Contraseña",
-    "option-3": "Cerrar sesion"
+    "option-3": "Cerrar sesion",
+    "help": "Ayuda",
+    "logout": "Cerrar sesion",
+    "notification": "Notificaciones",
+    "profile": "Perfil",
+    "language": "Idioma"
   },
   "ADMIN-DASH": {
     "farmer": "Productor",
