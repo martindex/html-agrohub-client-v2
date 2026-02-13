@@ -501,7 +501,9 @@
     "upload-image": "+ Subir imagen",
     "product-documents": "Documentos del producto",
     "videos": "Videos",
-    "invalidMail": "Email inconrrecto"
+    "invalidMail": "Email inconrrecto",
+    "add-phytosanitary": "Agregar fitosanitario",
+    "add-user": "Agregar usuario"
   },
   "EIQ": {
     "eiq": "EIQ",
