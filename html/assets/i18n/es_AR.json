@@ -1066,7 +1066,25 @@
     "unit": "Unidad",
     "send-options": "Opciones de envío",
     "my-transports": "Mis transportes",
-    "agrohub-transports": "Transportes de Agrohub"
+    "agrohub-transports": "Transportes de Agrohub",
+    "prices-and-taxes": "Precios e impuestos",
+    "quantity": "Cantidad",
+    "search-condition": "Buscar condición...",
+    "state": "Estado",
+    "select-point": "Seleccione un punto",
+    "edit-product": "Editar producto",
+    "search-product": "Buscar producto...",
+    "add-product": "Agregar producto",
+    "information": "Información"
+  },
+  "PRODUCT-MEDIA": {
+    "product-files": "Archivos del Producto",
+    "click-to-select": "Hacé clic para seleccionar archivos",
+    "images-documents-videos": "Imágenes, documentos o videos",
+    "images-count": "Imágenes",
+    "documents-count": "Documentos",
+    "videos-count": "Videos",
+    "options-header": "Opciones"
   },
   "PRESCRIPTIONS": {
     "prescriptions": "Prescripciones",
