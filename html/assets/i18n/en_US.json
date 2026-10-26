@@ -778,5 +778,8 @@
         "finished-area": "Finished area",
         "max-progress": "Maximum progress allowed",
         "current-progress": "Current progress"
+    },
+    "ADD-SPRAY": {
+        "periurban-invalid-product": "Product not allowed: The product \"{{products}}\" could not be added because its toxicological category is not allowed for periurban lots. Only Green Band (Class 4) and Blue Band (Class 3) products are allowed for periurban lots."
     }
 }

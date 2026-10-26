@@ -641,5 +641,8 @@
     "finished-area": "Área terminada",
     "max-progress": "Máximo avance permitido",
     "current-progress": "Avance actual"
+  },
+  "ADD-SPRAY": {
+    "periurban-invalid-product": "Producto no permitido: El producto \"{{products}}\" no pudo ser agregado porque corresponde a una categoría toxicológica no permitida para aplicaciones en lotes periurbanos. Para lotes periurbanos solamente se permiten productos Banda Verde (Clase 4) y Banda Azul (Clase 3)."
   }
 }
